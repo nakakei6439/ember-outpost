@@ -1,0 +1,7 @@
+node_modules
+dist
+
+.product/**/screenshots/
+.vercel
+.DS_Store
+*.log
